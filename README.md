@@ -2,3 +2,5 @@
 This is the worlds best HTML Template ever created. 
 
 # Pull Request Templates
+
+Merged It
