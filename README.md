@@ -1,4 +1,4 @@
-# thebesthtmltemplate
-This is the best HTML Template Ever
+# The Worlds Best HTML Template
+This is the worlds best HTML Template ever created. 
 
 # Pull Request Templates
